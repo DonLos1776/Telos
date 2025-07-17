@@ -1,6 +1,7 @@
 # DonLos1776'a Telos-FORGED IN FIRE
 
 ## HISTORY
+- Forged Project Labyrinth with Alias-Prime, establishing full GitHub Sovereignty
 ## WEAKNESSES
 -Procrastination as a whole, regardless of my state of mind. I'll procrastinate with things that I actualy want to do, let alone the things I feel I am forced to do.
 ## PROBLEMS
@@ -19,5 +20,6 @@
 ## BEST BOOKS
 ## WISDOM
 ## METRICS
+
 ## TRAUMAS
 ## LOG (Journal)
